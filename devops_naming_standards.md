@@ -57,8 +57,11 @@
 #E&E Examples
 ```
 ee_prod_pz_online_rp-en_access-log
+
 ee_prod_pz_online_rp-en_error-log
+
 ee_prod_pz_online_rp-en_server-log
+
 ee_prod_pz_online_rp-es_access-log
 ee_prod_pz_online_rp-es_error-log
 ee_prod_pz_online_rp-es_server-log
@@ -87,16 +90,16 @@ ee_prod_online_db_2223-access-log
 ```
 #MCR Examples
 ```
-mcr_prod-east_pz_app_rp-ui_access-log "\n"
-mcr_prod-east_pz_app_rp-ui_server-log"\n"
-mcr_prod-east_pz_app_rp-ui_error-log"\n"
-mcr_prod-east_pz_app_rp-svcs_access-log"\n"
-mcr_prod-east_pz_app_rp-svcs_error-log"\n"
-mcr_prod-east_pz_app_rp-svcs_server-log"\n"
-mcr_prod-east_az_app_lb-app_server-log"\n"
-mcr_prod-east_az_app_app_server-log"\n"
-mcr_prod-east_az_app_agigw-lb_server-log"\n"
-mcr_prod-east_az_app_agigw_server-log"\n"
+mcr_prod-east_pz_app_rp-ui_access-log 
+mcr_prod-east_pz_app_rp-ui_server-log
+mcr_prod-east_pz_app_rp-ui_error-log
+mcr_prod-east_pz_app_rp-svcs_access-log
+mcr_prod-east_pz_app_rp-svcs_error-log
+mcr_prod-east_pz_app_rp-svcs_server-log
+mcr_prod-east_az_app_lb-app_server-log
+mcr_prod-east_az_app_app_server-log
+mcr_prod-east_az_app_agigw-lb_server-log
+mcr_prod-east_az_app_agigw_server-log
 mcr_prod-east_dz_app_batch_server-log"\n"
 mcr_prod-east_dz_app_lb-db_server-log"\n"
 mcr_prod-east_dz_app_db_server-log
