@@ -57,11 +57,8 @@
 #E&E Examples
 ```
 ee_prod_pz_online_rp-en_access-log
-
 ee_prod_pz_online_rp-en_error-log
-
 ee_prod_pz_online_rp-en_server-log
-
 ee_prod_pz_online_rp-es_access-log
 ee_prod_pz_online_rp-es_error-log
 ee_prod_pz_online_rp-es_server-log
