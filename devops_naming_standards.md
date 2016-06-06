@@ -2,9 +2,9 @@
 
 
 ```
-<splunk_sourcetype> ::= <tower> "_" <env_name>"_"[<cluster_name> "_"] <zone> "_" <application> "_" <component> "_" <artifact>
+<splunk_source_type> ::= <tower> "_" <env_name>"_"[<cluster_name> "_"] <zone> "_" <application> "_" <component> "_" <artifact>
 
-<splunk_classname> ::= <tower> "_" <env_name> "_" [<cluster_name> "_"] <zone> "_" <application> "_" <component>
+<splunk_class_name> ::= <tower> "_" <env_name> "_" [<cluster_name> "_"] <zone> "_" <application> "_" <component>
 
 <newrelic_group_names> ::= <tower> "_" <env_name> "_" [<cluster_name> "_"]<zone> "_" <application> "_" <component>
 ```
